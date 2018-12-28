@@ -1,0 +1,72 @@
+2018-06-07 10:01:06,222 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 10:01:06,222 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 10:01:06,222 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 10:01:06,222 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 10:01:06,222 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 10:01:06,222 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 10:08:02,714 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 10:08:02,714 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 10:08:02,714 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 10:08:02,714 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 10:08:02,714 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 10:08:02,714 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 10:12:15,703 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 10:12:15,703 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 10:12:15,703 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 10:12:15,703 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 10:12:15,703 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 10:12:15,703 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 10:30:23,516 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 10:30:23,516 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 10:30:23,516 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 10:30:23,516 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 10:30:23,517 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 10:30:23,517 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 10:31:54,589 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 10:31:54,590 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 10:31:54,590 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 10:31:54,590 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 10:31:54,590 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 10:31:54,590 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 10:45:28,323 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 10:45:28,323 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 10:45:28,323 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 10:45:28,323 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 10:45:28,323 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 10:45:28,323 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 11:07:14,837 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 11:07:14,837 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 11:07:14,837 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 11:07:14,837 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 11:07:14,837 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 11:07:14,837 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 11:14:11,810 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 11:14:11,810 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 11:14:11,810 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 11:14:11,810 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 11:14:11,810 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 11:14:11,810 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 11:20:19,658 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 11:20:19,659 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 11:20:19,659 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 11:20:19,659 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 11:20:19,659 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 11:20:19,659 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 11:29:01,273 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 11:29:01,273 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 11:29:01,273 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 11:29:01,273 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 11:29:01,273 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-0/data/network.rlp
+2018-06-07 11:29:01,273 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 11:34:30,503 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 11:34:30,503 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 11:34:30,503 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 11:34:30,503 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 11:34:30,503 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-1/data/network.rlp
+2018-06-07 11:34:30,503 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:
+2018-06-07 15:19:33,332 TRACE [default] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:559]  Main:: author: 0000000000000000000000000000000000000000
+2018-06-07 15:19:33,332 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1033] sFilePath:cryptomod.json
+2018-06-07 15:19:33,332 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1044] cryptoMod:0
+2018-06-07 15:19:33,333 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1045] kcUrl:
+2018-06-07 15:19:33,333 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1046] nodekeyPath:./data/node-2/data/network.rlp
+2018-06-07 15:19:33,333 DEBUG [default] [root@unknown-host] [int main(int, char**)] [/root/work/FISCO-BCOS/eth/main.cpp:1047] datakeyPath:

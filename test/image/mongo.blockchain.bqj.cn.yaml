@@ -1,0 +1,24 @@
+version: "3"
+networks:
+  bcos-ov:
+    external:
+      name: bcos-ov
+services:
+  mongo.blockchain.bqj.cn:
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    hostname: mongo.blockchain.bqj.cn
+    image: mongo:latest 
+    networks:
+      bcos-ov:
+        aliases:
+        - mongo.blockchain.bqj.cn
+    environment:
+    - GODEBUG=netdns=go
+#    - MONGO_INITDB_ROOT_USERNAME=test
+#    - MONGO_INITDB_ROOT_PASSWORD=test
+#    - MONGO_INITDB_DATABASE=test

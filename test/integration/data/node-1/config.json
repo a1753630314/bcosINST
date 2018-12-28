@@ -1,0 +1,47 @@
+{
+        "sealEngine": "PBFT",
+        "systemproxyaddress":"0x919868496524eedc26dbb81915fa1547a20f8998",
+        "listenip":"0.0.0.0",
+        "cryptomod":"0",
+        "ssl":"0",
+        "rpcport": "8545",
+        "p2pport": "30303",
+        "channelPort": "30304",
+        "wallet":"/bcos-data/node/keys.info",
+        "keystoredir":"/bcos-data/node/keystore/",
+        "datadir":"/bcos-data/node/data/",
+        "vm":"interpreter",
+        "networkid":"12345",
+        "logverbosity":"4",
+        "coverlog":"OFF",
+        "eventlog":"ON",
+        "statlog":"OFF",
+        "logconf":"/bcos-data/node/log.conf",
+        "params": {
+                "accountStartNonce": "0x0",
+                "maximumExtraDataSize": "0x0",
+                "tieBreakingGas": false,
+                "blockReward": "0x0",
+                "networkID" : "0x0"
+        },
+        "NodeextraInfo":[
+{
+                "Nodeid":"bed753c8bdb385b975d21e8e81bb56768732e9c846cb3b26de5df91bda9f99c9095575fc42f903f9fc3bc7653c5715abadc9724ef79af74aa9ef892870344b82",
+                "Nodedesc": "node0",
+                "Agencyinfo": "agency0",
+                "Peerip": "peer0.bcos.bqj.cn",
+                "Identitytype": 1,
+                "Port":30303,
+                "Idx":0
+                },
+                {
+                "Nodeid":"5668f42297055b563f7d32a0fd409056322fad0470d00ccc485ffccdb4a7a64f8d6f6710777062e01e166b8d04772e179579331f04f06642807dcb9bd4f8c902",
+                "Nodedesc": "node1",
+                "Agencyinfo": "agency1",
+                "Peerip": "peer1.bcos.bqj.cn",
+                "Identitytype": 1,
+                "Port":30303,
+                "Idx":1
+                }
+        ]
+}

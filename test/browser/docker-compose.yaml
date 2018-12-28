@@ -1,0 +1,42 @@
+version: "3"
+networks:
+  bcos-ov:
+    external:
+      name: bcos-ov
+services:
+  db.bcos.bqj.cn:
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    hostname: db.bcos.bqj.cn
+    image: bcosdb
+    networks:
+      bcos-ov:
+        aliases:
+        - db.bcos.bqj.cn
+    environment:
+    - GODEBUG=netdns=go
+#    volumes:
+#    - /root/hosts:/etc/hosts
+    ports:
+    - 3306:3306
+  browser.bcos.bqj.cn:
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    hostname: browser.bcos.bqj.cn
+    image: tomcat:9.0.8-jre9
+    networks:
+      bcos-ov:
+        aliases:
+        - browser.bcos.bqj.cn
+    volumes:
+    - ./apps:/root/
+    ports:
+    - 8888:8080

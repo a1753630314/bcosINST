@@ -1,0 +1,12 @@
+use bcos_browser;
+create user 'test'@'localhost' identified by '123456';
+grant all on bcos_browser.* to 'test'@'localhost';
+grant all on bcos_browser.* to 'test'@'%';
+grant all on mysql.proc to 'test'@'localhost';
+grant all on mysql.proc to 'test'@'%';
+grant execute on procedure bcos_browser.procedure_insert_table_tb_single_stat_by_day to 'test'@'localhost';
+grant execute on procedure bcos_browser.procedure_insert_table_tb_single_stat_by_day to 'test'@'%';
+grant execute on procedure bcos_browser.procedure_insert_table_tb_stat_transaction_by_day to 'test'@'localhost';
+grant execute on procedure bcos_browser.procedure_insert_table_tb_stat_transaction_by_day to 'test'@'%';
+grant execute on procedure bcos_browser.procedure_insert_table_tb_stat_block_by_day to 'test'@'localhost';
+grant execute on procedure bcos_browser.procedure_insert_table_tb_stat_block_by_day to 'test'@'%';

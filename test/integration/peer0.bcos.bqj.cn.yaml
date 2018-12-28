@@ -1,0 +1,29 @@
+version: "3"
+networks:
+  bcos-ov:
+    external:
+      name: bcos-ov
+services:
+  peer0.bcos.bqj.cn:
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+    hostname: peer0.bcos.bqj.cn
+    image: fiscoorg/fiscobcos:latest
+    networks:
+      bcos-ov:
+        aliases:
+        - peer0.bcos.bqj.cn
+    environment:
+    - GODEBUG=netdns=go
+    command: sh -c 'fisco-bcos   --genesis /bcos-data/node/genesis.json --config /bcos-data/node/config.json'
+    volumes:
+    - ./data/node-0/:/bcos-data/node
+    - /root/hosts:/etc/hosts
+    ports:
+    - 8545:8545
+    - 30303:30303
+    - 30304:30304

@@ -1,0 +1,36 @@
+{
+        "sealEngine": "PBFT",
+        "systemproxyaddress": "0x0",
+        "listenip": "0.0.0.0",
+        "cryptomod": "0",
+        "ssl": "0",
+        "rpcport": "8545",
+        "p2pport": "30303",
+        "channelPort": "30304",
+        "wallet": "/bcos-data/node/keys.info",
+        "keystoredir": "/bcos-data/node/keystore/",
+        "datadir": "/bcos-data/node/data/",
+        "vm": "interpreter",
+        "networkid": "12345",
+        "logverbosity": "4",
+        "coverlog": "OFF",
+        "eventlog": "ON",
+        "statlog": "OFF",
+        "logconf": "/bcos-data/node/log.conf",
+        "params": {
+                "accountStartNonce": "0x0",
+                "maximumExtraDataSize": "0x0",
+                "tieBreakingGas": false,
+                "blockReward": "0x0",
+                "networkID": "0x0"
+        },
+        "NodeextraInfo": [{
+                "Nodeid": "323d6040f0839a96767dac362285e1b95c13239c34947be3c06d22719c926678cf50703f4fa8f2148ac47d541086b7823ac82e945419af389adc491757349920",
+                "Nodedesc": "node2",
+                "Agencyinfo": "agency2",
+                "Peerip": "peer2.bcos.bqj.cn",
+                "Identitytype": 1,
+                "Port": 30303,
+                "Idx": 2
+        }]
+}
